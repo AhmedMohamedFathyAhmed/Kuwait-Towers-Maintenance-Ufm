@@ -1,5 +1,5 @@
 {
-  "status": "ACTIVE",
+  "status": "LOCKED",
   "expiryDate": "2030-12-31",
   "lockMessage": "System Disabled by Administrator"
 }
